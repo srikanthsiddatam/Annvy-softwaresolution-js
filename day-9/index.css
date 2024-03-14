@@ -1,0 +1,28 @@
+/* .container{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+
+}
+.inner-container{
+    background-color: black;
+    width: 100%;
+    height: calc(100% - 56px);
+    padding: 20px;
+    margin: 20px ;
+    display: flex;
+    flex-direction: column;
+}
+.box-item{
+    display: flex;
+    
+    padding: 20px;
+    height: 800px;
+    margin: 20px;
+    width: calc(100% - 60px);
+    
+
+} */
